@@ -1,0 +1,15 @@
+.imagen{
+    height: 200px;
+    width: 300px;
+    margin-left: 700px;
+}
+.td12{
+    margin-right: 100px;
+    margin-left: 500px;
+    text-align: center;
+}
+.tablas{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
